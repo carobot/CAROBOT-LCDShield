@@ -1,4 +1,4 @@
-# CAROBOT MCP23017 Library
+# CAROBOT LCD Shield Library
 
 MIT License
 
